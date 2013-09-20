@@ -1,4 +1,4 @@
-::Pequeño script para descargar de tusseries.com
+::Pequeño script para descargar de grupots
 ::Para que funcione hay que cambiar lo siguiente:
 :: 1) 	poner en usuario y password los tuyos
 :: 2) 	poner en el fichero listaseries.txt el enlace a la serie que sea
